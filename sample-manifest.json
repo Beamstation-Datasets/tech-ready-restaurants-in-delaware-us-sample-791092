@@ -1,0 +1,12 @@
+{
+  "export_job_id": "3ac50451-c013-4118-bc24-667cd494e44e",
+  "id_short": 791092,
+  "published_at": "2026-04-13T07:54:41Z",
+  "repo_name": "tech-ready-restaurants-in-delaware-us-sample-791092",
+  "sample_asset_name": "beamstation_791092_restaurants-us-de_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/791092/beamstation_791092_restaurants-us-de_SAMPLE_DIST.csv",
+  "sample_records": 1,
+  "sample_sha256": "0e65de594e4e92244a366e4b433cc6cc4e6c34391ec2d09e775ad5f529e2f8b8",
+  "sample_size_bytes": 19971,
+  "total_records": 9
+}
